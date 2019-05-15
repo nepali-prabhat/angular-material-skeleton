@@ -7,7 +7,7 @@ const routes: Routes = [
 		path:'',
 		component: LandingPageComponent,
 		pathMatch:'full'
-	}
+	},
 ];
 
 @NgModule({
