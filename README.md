@@ -8,3 +8,5 @@ The project is extended to make a skeleton for:
 2. divided into 2 sub modules for above pages,
 3. Has Views, Model, support functions, secondary modules, components.
 4. Has angular material integration
+
+npm install --save-dev @angular/cli@latest
